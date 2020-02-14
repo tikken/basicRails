@@ -1,0 +1,5 @@
+PassengerRuby /opt/rubies/ruby-2.5/bin/ruby
+PassengerUploadBufferDir /home/t/tikken23/printers/tmp
+SetENV GEM_HOME /home/t/tikken23/.gem/ruby/2.5.1
+SetENV GEM_PATH /home/t/tikken23/.gem/ruby/2.5.1:/opt/ruby/2.5/lib/ruby/gems/2.5.0
+RAILSENV development
